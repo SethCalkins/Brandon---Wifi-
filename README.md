@@ -1,7 +1,9 @@
 # Brandon Wifi Channel
 
 
-1) Copy brandon.sh to desktop 
+1) Download this repository by clicking "clone or download at the top, then click download ZIP"
+
+2 Move brandon.sh over to desktop
 
 2) Launch Terminal  (Dock → Finder → Go → Utilities → Terminal)
 
